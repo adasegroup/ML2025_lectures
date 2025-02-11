@@ -6,6 +6,7 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 1 (04.02) - Introduction Lecture
 - LECTURE 2 (06.02) - Regression
 - LECTURE 3 (07.02) - Classification
+- LECTURE 4 (11.02) - Decision Trees
 
 
 ## Course Description:
