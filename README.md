@@ -7,6 +7,8 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 2 (06.02) - Regression
 - LECTURE 3 (07.02) - Classification
 - LECTURE 4 (11.02) - Decision Trees
+- LECTURE 5 (14.02) - Adaboost and Gradient Boosting
+- LECTURE 6 (18.02) - Imbalanced data
 
 
 ## Course Description:
