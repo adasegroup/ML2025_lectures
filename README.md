@@ -10,6 +10,7 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 5 (14.02) - Adaboost and Gradient Boosting
 - LECTURE 6 (18.02) - Imbalanced data
 - LECTURE 7 (20.02) - Model_and_Feature_Selection
+- LWCTURE 8 (21.02) - Gaussian Process
 
 
 ## Course Description:
