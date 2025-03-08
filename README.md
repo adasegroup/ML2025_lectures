@@ -10,7 +10,11 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 5 (14.02) - Adaboost and Gradient Boosting
 - LECTURE 6 (18.02) - Imbalanced data
 - LECTURE 7 (20.02) - Model_and_Feature_Selection
-- LWCTURE 8 (21.02) - Gaussian Process
+- LECTURE 8 (21.02) - Gaussian Process
+- LECTURE 9 (28.02)- Shallow Artificial Neural Networks
+- LECTURE 10 (04.03): Deep ANN
+- LECTURE 11 (06.03): Attention and Transformers.
+- LECTURE 12 (07.03): Dimensionality Reduction
 
 
 ## Course Description:
