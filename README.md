@@ -15,6 +15,7 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 10 (04.03): Deep ANN
 - LECTURE 11 (06.03): Attention and Transformers.
 - LECTURE 12 (07.03): Dimensionality Reduction
+- LECTURE 13 (11.03): Anomaly Detection
 
 
 ## Course Description:
