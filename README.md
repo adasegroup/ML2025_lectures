@@ -16,7 +16,7 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 11 (06.03): Attention and Transformers.
 - LECTURE 12 (07.03): Dimensionality Reduction
 - LECTURE 13 (11.03): Anomaly Detection
-- LECTURE 13 (13.03): Unsupervised ML: Clustering
+- LECTURE 14 (13.03): Unsupervised ML: Clustering
 
 
 ## Course Description:
