@@ -17,6 +17,7 @@ This is a repository containing the lectures for the Machine Learning course (MA
 - LECTURE 12 (07.03): Dimensionality Reduction
 - LECTURE 13 (11.03): Anomaly Detection
 - LECTURE 14 (13.03): Unsupervised ML: Clustering
+- LECTURE 15 (14.03): Uncertainty Quantification
 
 
 ## Course Description:
